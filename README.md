@@ -1,4 +1,4 @@
-# Hi 👋 My name is Pius Kamau
+Am Pius Kamau
 
 ## Fullstack Developer | Backend Systems Engineer
 
@@ -13,7 +13,7 @@ I enjoy solving real-world problems, thinking in systems, and building software 
 ---
 
 * 🌍  Based in Nairobi, Kenya
-* ✉️  Contact: [07299kama@gmail.com](mailto:07299kama@gmail.com)
+* ✉️  Contact: [07299kama@gmail.com](mailto:piusmwangi611@gmail.com)
 * 🧠  Focus: Fullstack Development (Backend-heavy)
 * 🚀  Currently building scalable SaaS systems
 * 🤝  Open to collaboration on impactful projects
