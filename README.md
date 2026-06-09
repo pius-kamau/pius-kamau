@@ -19,8 +19,8 @@ I enjoy solving real-world problems, thinking in systems, and building software 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pius-pitech1&style=flat-square&color=0891b2" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/pius-pitech1?logo=github&style=flat-square&color=0891b2&label=Follow" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=pius-kamau&style=flat-square&color=0891b2" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/pius-kamau?logo=github&style=flat-square&color=0891b2&label=Follow" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Nairobi-Kenya-2dd4bf?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/CEO-Pitech%20Technologies-0891b2?style=flat-square" alt="CEO" />
 </div>
@@ -94,13 +94,13 @@ I enjoy solving real-world problems, thinking in systems, and building software 
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pius-pitech1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&ring=0891b2&fire=0891b2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pius-kamau&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&ring=0891b2&fire=0891b2" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pius-pitech1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pius-kamau&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" />
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pius-pitech1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pius-kamau&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pius-pitech1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pius-kamau&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -108,7 +108,7 @@ I enjoy solving real-world problems, thinking in systems, and building software 
 ### GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pius-pitech1&theme=darkhub&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pius-kamau&theme=darkhub&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -116,7 +116,7 @@ I enjoy solving real-world problems, thinking in systems, and building software 
 ### Connect with me
 
 <div align="center">
-  <a href="https://www.github.com/pius-pitech1" target="_blank">
+  <a href="https://www.github.com/pius-kamau" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
