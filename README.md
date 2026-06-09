@@ -20,7 +20,7 @@ I enjoy solving real-world problems, thinking in systems, and building software 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pius-kamau&style=flat-square&color=0891b2" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/pius-kamau?logo=github&style=flat-square&color=0891b2&label=Follow" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/pius-kamau?style=flat-square&logo=github&label=Followers&color=0891b2" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Nairobi-Kenya-2dd4bf?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/CEO-Pitech%20Technologies-0891b2?style=flat-square" alt="CEO" />
 </div>
