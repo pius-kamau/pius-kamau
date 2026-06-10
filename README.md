@@ -14,7 +14,7 @@ I have strong experience in backend engineering using **Node.js**, **Express**, 
 
 Recently, I built **BiasharaPro**, a multi-user business management system featuring authentication, product and inventory management, invoicing with VAT handling, real-time analytics, low stock alerts, and M-Pesa integration with automated payment confirmation.
 
-I am currently an ongoing Computer Science student at the **University of the People** (Pasadena, California), where I am deepening my theoretical understanding of algorithms, data structures, and software engineering principles to complement my hands-on development experience.
+I am currently pursuing a **Bachelor's degree in Computer Science** at the **University of the People** (Pasadena, California), where I am deepening my theoretical understanding of algorithms, data structures, and software engineering principles to complement my hands-on development experience.
 
 I enjoy solving real-world problems, thinking in systems, and building software that is not just functional — but scalable, maintainable, and production-ready.
 
@@ -33,7 +33,7 @@ I enjoy solving real-world problems, thinking in systems, and building software 
 - Contact: [pitechtechnologies@gmail.com](mailto:pitechtechnologies@gmail.com)
 - Focus: Fullstack Development (Backend-heavy)
 - CEO at **Pitech Technologies**
-- **Ongoing Computer Science student at University of the People, Pasadena, California**
+- **Bachelor's degree in Computer Science (ongoing) at University of the People, Pasadena, California**
 - Currently building scalable SaaS systems
 - Open to collaboration on impactful projects
 
