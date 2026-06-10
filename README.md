@@ -8,7 +8,7 @@
 
 ## Fullstack Developer | Backend Systems Engineer | CEO at Pitech Technologies
 
-I'm a fullstack developer and tech entrepreneur based in **Nairobi, Kenya**, focused on building scalable, real-world business systems. As the CEO of **Pitech Technologies**, I lead the development of end-to-end applications — from robust backend APIs to modern, responsive frontend interfaces.
+I'm a fullstack developer and tech entrepreneur based in **Nairobi, Kenya**, focused on building scalable, real-world business systems. As the CEO of **Pitech Technologies**, I lead the development of end-to-end applications from robust backend APIs to modern, responsive frontend interfaces.
 
 I have strong experience in backend engineering using **Node.js**, **Express**, and **PostgreSQL**, where I design secure authentication systems, RESTful APIs, and complex business logic such as invoicing, inventory management, and payment integrations.
 
@@ -16,7 +16,7 @@ Recently, I built **BiasharaPro**, a multi-user business management system featu
 
 I am currently pursuing a **Bachelor's degree in Computer Science** at the **University of the People** (Pasadena, California), where I am deepening my theoretical understanding of algorithms, data structures, and software engineering principles to complement my hands-on development experience.
 
-I enjoy solving real-world problems, thinking in systems, and building software that is not just functional — but scalable, maintainable, and production-ready.
+I enjoy solving real-world problems, thinking in systems, and building software that is not just functional but scalable, maintainable, and production-ready.
 
 ---
 
