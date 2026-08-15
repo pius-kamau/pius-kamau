@@ -1,38 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=0891B2&center=true&vCenter=true&width=700&height=70&lines=I'm+Pius+Kamau;Backend+Software+Engineer;CEO+%7C+Pitech+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=0891B2&center=true&vCenter=true&width=700&height=70&lines=Pius+Kamau;Backend+Software+Engineer;CEO+%7C+Pitech+Technologies" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&height=40&lines=Building+Scalable+Backend+Systems;APIs+%7C+Databases+%7C+Real-time+Systems" />
-
-</div>
-
----
-
-# Backend Software Engineer | CEO at Pitech Technologies
-
-I am a **Backend Software Engineer** based in **Nairobi, Kenya**, focused on building scalable, secure, and production-ready backend systems.
-
-As the CEO of **Pitech Technologies**, I design and build backend systems, APIs, and full-stack applications that solve real-world business problems.
-
-I specialize in backend development using **Node.js**, **TypeScript**, and modern database technologies, with a strong focus on performance, scalability, and clean architecture.
-
-I have built:
-
-- **BiasharaPro** — SME business management system (inventory, invoicing, analytics)
-- **TicketCore** — real-time ticket booking system with seat locking, queues, and QR tickets
-
-I am currently pursuing a **Bachelor’s Degree in Computer Science** at the **University of the People**.
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=pius-kamau&style=flat-square&color=0891b2" />
-<img src="https://img.shields.io/github/followers/pius-kamau?style=flat-square&logo=github&label=Followers&color=0891b2" />
-<img src="https://img.shields.io/badge/Nairobi-Kenya-2dd4bf?style=flat-square" />
-<img src="https://img.shields.io/badge/Backend-Engineer-0891b2?style=flat-square" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&height=40&lines=Building+Scalable+Backend+Systems;APIs+%7C+Databases+%7C+Real-time+Architecture" />
 
 </div>
 
@@ -40,127 +12,149 @@ I am currently pursuing a **Bachelor’s Degree in Computer Science** at the **U
 
 ## About Me
 
-- Based in Nairobi, Kenya  
-- Backend Software Engineer  
-- CEO at **Pitech Technologies**  
-- Focused on backend systems & APIs  
-- Building scalable SaaS products  
-- Passionate about system design & clean architecture  
-- Open to collaboration on backend-heavy systems  
+Results-driven Backend Software Engineer based in Nairobi, Kenya, specializing in designing and implementing production-grade distributed systems. I architect scalable backend solutions that bridge the gap between complex business requirements and technical excellence.
+
+As CEO of Pitech Technologies, I lead the development of enterprise-grade applications, focusing on:
+
+- System Architecture: Distributed systems, microservices, and event-driven designs
+- API Engineering: RESTful and GraphQL APIs with OpenAPI specifications
+- Database Optimization: High-performance query design and data modeling
+- Infrastructure: Docker containerization and CI/CD pipelines
+
+**Current Focus**: 
+- Building BiasharaPro - A comprehensive SME management platform
+- Developing TicketCore - Real-time ticketing system with Redis locking
+- Pursuing B.Sc. in Computer Science at University of the People
 
 ---
 
-#  Tech Stack
+## Technical Expertise
+
+### Core Technologies
 
 <p align="center">
-
-<!-- Core Technologies -->
-<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express" />
-
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
-
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-
-<!-- DevOps -->
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
-
-<!-- Testing -->
-<img src="https://skillicons.dev/icons?i=jest" />
-
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,express,postgres,mongodb,redis,prisma,docker,git,github,linux" />
 </p>
 
-###  Supporting Technologies
+### Specializations
 
-- Socket.io (Real-time communication)
-- BullMQ / Bull (Background job processing)
-- JWT Authentication
-- bcryptjs (Password hashing)
-- Nodemailer / Brevo / SendGrid (Email services)
-- Joi (Validation)
-- Helmet, CORS, Rate limiting (Security)
-- Winston (Logging)
-- Prometheus / Grafana (Monitoring)
-- Nodemon / ts-node (Development tools)
-- UUID / QRCode / dotenv (Utilities)
-- Supertest / Artillery (Testing)
+| Domain | Technologies |
+|--------|--------------|
+| Backend Development | Node.js, Express.js, TypeScript, Python |
+| Database Management | PostgreSQL, MongoDB, Redis, Prisma ORM |
+| Real-time Systems | Socket.io, WebSockets |
+| Message Queues | BullMQ, RabbitMQ |
+| Security | JWT, OAuth2, Helmet, Rate Limiting |
+| Monitoring | Prometheus, Grafana, Winston |
+| Testing | Jest, Supertest, Artillery |
+| DevOps | Docker, GitHub Actions, Nginx |
 
 ---
 
-#  Featured Projects
-
-## BiasharaPro
-A scalable SME business management platform.
-
-**Features:**
-- Inventory management
-- Invoicing system
-- Analytics dashboard
-- Financial reporting
-
-**Stack:** Node.js · Express · PostgreSQL · React · TailwindCSS
-
----
-
-## TicketCore
-A real-time ticket booking system.
-
-**Features:**
-- Redis seat locking
-- Socket.io live updates
-- BullMQ background jobs
-- QR code ticket generation
-- Email notifications
-
-**Stack:** Node.js · TypeScript · Express · PostgreSQL · Redis
-
----
-
-#  GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pius-kamau&show_icons=true&theme=dark"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pius-kamau&theme=dark"/>
-
-</div>
-
----
-
-#  Connect With Me
+## GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/pius-kamau">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pius-kamau&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pius-kamau&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </a>
 
-<a href="mailto:pitechtechnologies@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/>
+<br/>
 
-<a href="https://www.linkedin.com/in/pius-mwangi-023228382">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pius-kamau&theme=algolia&hide_border=true" />
 
 </div>
 
 ---
 
+## Featured Projects
+
+### BiasharaPro
+Enterprise SME Management Platform
+
+A comprehensive business management solution designed for small and medium enterprises.
+
+**Key Features**:
+- Inventory management with real-time stock tracking
+- Automated invoicing and payment processing
+- Business analytics and financial reporting
+- Multi-user role-based access control
+
+**Technology Stack**: Node.js, Express, PostgreSQL, React, TailwindCSS, JWT
+
+---
+
+### TicketCore
+Real-time Event Ticketing System
+
+High-performance ticketing platform with seat reservation and QR verification.
+
+**Key Features**:
+- Redis-powered seat locking mechanism
+- Real-time updates via Socket.io
+- QR code ticket generation
+- Automated email notifications
+- BullMQ background job processing
+
+**Technology Stack**: Node.js, TypeScript, Express, PostgreSQL, Redis, Socket.io
+
+---
+
+## Professional Metrics
+
 <div align="center">
 
-*"Build clean backend systems. Think in APIs. Scale with architecture."*
+<img src="https://komarev.com/ghpvc/?username=pius-kamau&style=flat-square&color=0891b2" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/pius-kamau?style=flat-square&logo=github&label=Followers&color=0891b2" alt="GitHub Followers"/>
+<img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-2dd4bf?style=flat-square" />
+<img src="https://img.shields.io/badge/Specialization-Backend%20Engineering-0891b2?style=flat-square" />
 
-<br/>
+</div>
 
-<b>Code. Scale. Impact.</b>
+---
 
-<br/>
+## Professional Network
 
-<b>© 2026 Pius Kamau | Pitech Technologies</b>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pius-kamau)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pius-mwangi-023228382)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pitechtechnologies@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pitechtechnologies.com)
+
+</div>
+
+---
+
+## Latest Publications
+
+- [Building Scalable APIs with Node.js and TypeScript](https://blog.pitechtechnologies.com/scalable-apis)
+- [Redis Seat Locking for Real-time Ticketing Systems](https://blog.pitechtechnologies.com/redis-seat-locking)
+- [Clean Architecture in Backend Development](https://blog.pitechtechnologies.com/clean-architecture)
+
+---
+
+## Collaboration Opportunities
+
+I am actively seeking collaboration on:
+
+- Backend-heavy systems and microservices architecture
+- System design and architecture reviews
+- Open source contributions
+- Mentorship and technical leadership
+
+---
+
+<div align="center">
+
+---
+
+*Design clean systems, think in APIs, and scale with purpose.*
+
+**Building the Future of Backend Engineering**
+
+© 2026 Pius Kamau | Pitech Technologies
 
 </div>
