@@ -55,15 +55,17 @@ As CEO of Pitech Technologies, I lead the development of enterprise-grade applic
 
 <div align="center">
 
-<a href="https://github.com/pius-kamau">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pius-kamau&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pius-kamau&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=pius-kamau&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <br/>
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pius-kamau&theme=algolia&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pius-kamau&theme=algolia" alt="GitHub Streak" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pius-kamau&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
 
 </div>
 
@@ -72,7 +74,7 @@ As CEO of Pitech Technologies, I lead the development of enterprise-grade applic
 ## Featured Projects
 
 ### BiasharaPro
-Enterprise SME Management Platform
+**Enterprise SME Management Platform**
 
 A comprehensive business management solution designed for small and medium enterprises.
 
@@ -87,7 +89,7 @@ A comprehensive business management solution designed for small and medium enter
 ---
 
 ### TicketCore
-Real-time Event Ticketing System
+**Real-time Event Ticketing System**
 
 High-performance ticketing platform with seat reservation and QR verification.
 
