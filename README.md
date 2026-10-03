@@ -51,47 +51,6 @@ My approach is centered around building software that is:
 
 ## Current Projects
 
-### BiasharaPro
-
-**SME Management & Business Operations Platform**
-
-A backend-driven platform designed to help small and medium-sized businesses manage their daily operations.
-
-**Core Areas**
-
-* Inventory management
-* Stock tracking
-* Invoicing
-* Payment processing
-* Business analytics
-* Financial reporting
-* Role-based access control
-* API-driven architecture
-
-**Stack:** Node.js · Express.js · TypeScript · PostgreSQL · Redis · React · Tailwind CSS
-
----
-
-### TicketCore
-
-**Real-Time Event Ticketing Platform**
-
-A high-performance ticketing system designed around reliable seat reservation, real-time availability and automated processing.
-
-**Core Areas**
-
-* Redis-based seat locking
-* Real-time seat availability
-* QR ticket generation
-* Ticket verification
-* Background job processing
-* Email notifications
-* Transaction handling
-* WebSocket communication
-
-**Stack:** Node.js · TypeScript · Express.js · PostgreSQL · Redis · Socket.io · BullMQ
-
----
 
 ## Technical Stack
 
@@ -103,28 +62,7 @@ A high-performance ticketing system designed around reliable seat reservation, r
 
 ---
 
-## Backend Engineering
 
-| Area           | Technologies                   |
-| -------------- | ------------------------------ |
-| Languages      | TypeScript, JavaScript, Python |
-| Backend        | Node.js, Express.js            |
-| Frontend       | React, Next.js, Tailwind CSS   |
-| Databases      | PostgreSQL, MongoDB            |
-| ORM            | Prisma                         |
-| Caching        | Redis                          |
-| Real-time      | WebSockets, Socket.io          |
-| Queues         | BullMQ, RabbitMQ               |
-| Authentication | JWT, OAuth 2.0                 |
-| Security       | Helmet, Rate Limiting, RBAC    |
-| Validation     | Zod                            |
-| Documentation  | Swagger / OpenAPI              |
-| Logging        | Winston                        |
-| Testing        | Jest, Supertest                |
-| DevOps         | Docker, GitHub Actions, Nginx  |
-| Systems        | Linux                          |
-
----
 
 # GitHub Statistics
 
@@ -154,52 +92,6 @@ A high-performance ticketing system designed around reliable seat reservation, r
 
 ---
 
-## Engineering Focus
-
-```text
-                    BACKEND ENGINEERING
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-       APIs            Databases        Distributed
-          │                │              Systems
-          │                │                │
-      REST /          PostgreSQL         Redis
-      OpenAPI         MongoDB            Queues
-      Auth            Prisma             Workers
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                    Production Systems
-                           │
-              ┌────────────┼────────────┐
-              │            │            │
-           Security     Monitoring    DevOps
-              │            │            │
-            JWT         Winston       Docker
-            RBAC        Logging       CI/CD
-            Rate        Metrics       Nginx
-           Limiting
-```
-
----
-
-## What I Build
-
-I am particularly interested in systems involving:
-
-* **Business management platforms**
-* **Payment and transaction systems**
-* **Real-time applications**
-* **Ticketing and reservation systems**
-* **Authentication and authorization**
-* **Distributed backend services**
-* **Queue-based processing**
-* **API-first applications**
-* **Data-intensive applications**
-* **SaaS platforms**
-
----
 
 ## Engineering Principles
 
